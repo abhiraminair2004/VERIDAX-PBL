@@ -26,7 +26,7 @@ module.exports = {
         primary: {
           DEFAULT: "#10B981", // Mint green
           foreground: "#FFFFFF",
-          dark: "#059669",
+          dark: "#000000",
         },
         secondary: {
           DEFAULT: "#6366F1", // Indigo
